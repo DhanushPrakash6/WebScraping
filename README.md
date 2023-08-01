@@ -11,4 +11,4 @@ If you are passionate about web scraping, data extraction, or the exciting field
 
 Feel free to reach out if you have any questions, suggestions, or opportunities for collaboration.
 
-Happy exploring and coding!
+In this repository, I had uploaded the final extracted AI tools detail in CSV format and also uploaded the Python code for Extracting Link for each AI Tools and also for extracting details in each AI Tools through BeautifulSoup and Selenium Python module.
